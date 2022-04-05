@@ -1,4 +1,4 @@
-## Mox Amber 
+## Welcome to the home page of Mox Amber 
 
 ## Members
 * Kaiwi Akioka
