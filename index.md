@@ -1,4 +1,5 @@
-## Welcome to the home page of Mox Amber 
+## Welcome
+(TODO: Description)
 
 ## Members
 * Kaiwi Akioka
