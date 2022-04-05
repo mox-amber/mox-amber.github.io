@@ -31,6 +31,19 @@ so that they can arrange organized meet ups for anyone interested. We will first
 Along with the feature suite, there will be a dedicated group of 'super-users' with admin
 capabilities that ensure the website adheres to our applications policy.
 
-- a good description of the goals of the project, 
-- what the system should eventually provide, 
-- screen shots of the mockup pages you plan to use as a basis for your final project.
+# What Will it Look Like?
+Here are some mockups of what we intend the site to look like.
+
+Landing page that will show what the project aims to do.
+![](images/login.png)
+If a user is interested in joining, they can sign up.
+
+If user is already a member they will be greeted with their dashboard after
+logging in.
+![](images/dashboard.png)
+
+If they want to update their page, they will go to their edit profile page.
+![](images/edit.png)
+
+When looking for people to jam with they will visit the search page.
+![](images/find.png)
