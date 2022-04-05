@@ -11,14 +11,14 @@ our goals below.
 * Ian Iwata
 
 ## Sessh
-# What Is Sessh?
+### What Is Sessh?
 Let's say you need a drummer for your band, looking for someone to teach you how to learn
 certain chord pattern, or just want some people to jam with. Finding other
 individuals who wish to pursue musical related goals can be difficult, especially
 when there is no reliable resource to do so. That's were Sessh comes in, we hope
 to develop a web application dedicated to cultivating a network of students who are musically inclined and enrolled at a University of Hawaii affiliated school. 
 
-# How Will it Work?
+### How Will it Work?
 We are aiming to provide the fundamental tools necessary to bring students together
 so that they can arrange organized meet ups for anyone interested. We will first start with a CRUD(create, read, update, and delete) based design for our initial tools including:
 * Creation of profiles including descriptions such as musical interests, goals, skills, etc.
@@ -31,7 +31,7 @@ so that they can arrange organized meet ups for anyone interested. We will first
 Along with the feature suite, there will be a dedicated group of 'super-users' with admin
 capabilities that ensure the website adheres to our applications policy.
 
-# What Will it Look Like?
+### What Will it Look Like?
 Here are some mockups of what we intend the site to look like.
 
 Landing page that will show what the project aims to do.
