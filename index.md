@@ -41,7 +41,7 @@ The following is a walkthrough of the application.
 When visiting the site, a user is greeted with our landing page describing the
 purpose of the application.
 
-![](images/landing-page.png)
+![](images/landing-page.PNG)
 
 A user can sign in by clicking the link in the upper right corner.
 
@@ -49,25 +49,25 @@ A user can sign in by clicking the link in the upper right corner.
 When signing in the user is taken to the sign in page where they can enter their
 information.
 
-![](images/login-page.png)
+![](images/login-page.PNG)
 
 ### User Dashboard
 After signing in the user is taken to their dashboard where they can view people
 within their network and edit their profile.
 
-![](images/dashboard.png)
+![](images/dashboard.PNG)
 
 ### Edit Profile
 If the user wants to update or change their account, they will be taken to their
 edit profile page.
-![](images/edit-page.png)
+![](images/edit-page.PNG)
 
 ### Find Page
 The find page lets users discover and filter musicians based on their preferences.
 
-![](images/search-page.png)
+![](images/search-page.PNG)
 
-![](images/search-page-filter.png)
+![](images/search-page-filter.PNG)
 
 
 ## Developer Guide
