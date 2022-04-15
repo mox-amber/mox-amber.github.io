@@ -60,7 +60,7 @@ within their network and edit their profile.
 ### Edit Profile
 If the user wants to update or change their account, they will be taken to their
 edit profile page.
-![](images/edit-page.PNG)
+![](images/edit-profile-page.PNG)
 
 ### Find Page
 The find page lets users discover and filter musicians based on their preferences.
