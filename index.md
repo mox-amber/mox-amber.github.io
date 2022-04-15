@@ -1,29 +1,26 @@
-## Welcome
-This home page is dedicated to documenting our projects. Currently we are working
-on a web application called Sessh. You can read more about the project and 
-our goals below.
+## Table of Contents
 
-## Who We Are
-* Kaiwi Akioka
-* Edward Birtodaso
-* Josh Constantino
-* Waylon Ho
-* Ian Iwata
+* [Overview](https://mox-amber.github.io/sessh/#overview)
+* [Deployment](https://mox-amber.github.io/sessh/#deployment)
+* [User Guide](https://mox-amber.github.io/sessh/#user-guide)
+* [Developer Guide](https://mox-amber.github.io/sessh/#developer-guide)
+* [Development](https://mox-amber.github.io/sessh/#development)
 
-## Sessh
+
+## Overview
 ### What Is Sessh?
 Let's say you need a drummer for your band, looking for someone to teach you how to learn
 certain chord pattern, or just want some people to jam with. Finding other
 individuals who wish to pursue musical related goals can be difficult, especially
 when there is no reliable resource to do so. That's were Sessh comes in, we hope
-to develop a web application dedicated to cultivating a network of students who are musically inclined and enrolled at a University of Hawaii affiliated school. 
+to develop a web application dedicated to cultivating a network of students who are musically inclined and enrolled at a University of Hawaii affiliated school.
 
 ### How Will it Work?
 We are aiming to provide the fundamental tools necessary to bring students together
 so that they can arrange organized meet ups for anyone interested. We will first start with a CRUD(create, read, update, and delete) based design for our initial tools including:
 * Creation of profiles including descriptions such as musical interests, goals, skills, etc.
 * Profiles will contain access to musical works they produced with links to other work they
-    were involved in.
+  were involved in.
 * Full browsing with dedicated filtering capabilities where a user can search for others based on information listed on their profiles.
 * Adding people to your regular sessions list.
 * Notifications based on search terms.
@@ -31,19 +28,69 @@ so that they can arrange organized meet ups for anyone interested. We will first
 Along with the feature suite, there will be a dedicated group of 'super-users' with admin
 capabilities that ensure the website adheres to our applications policy.
 
-### What Will it Look Like?
-Here are some mockups of what we intend the site to look like.
+## Deployment
+If you would like to see our application in action you can visit [our live site](http://161.35.230.24/#/).
 
-Landing page that will show what the project aims to do.
-![](images/login.png)
-If a user is interested in joining, they can sign up.
+## User Guide
+The following is a walkthrough of the application.
 
-If user is already a member they will be greeted with their dashboard after
-logging in.
-![](images/dashboard.png)
+### Landing Page
+When visiting the site, a user is greeted with our landing page describing the
+purpose of the application.
 
-If they want to update their page, they will go to their edit profile page.
-![](images/edit.png)
+![](doc/landing-page.png)
 
-When looking for people to jam with they will visit the search page.
-![](images/find.png)
+A user can sign in by clicking the link in the upper right corner.
+
+### Sign In
+When signing in the user is taken to the sign in page where they can enter their
+information.
+
+![](doc/login-page.png)
+
+### User Dashboard
+After signing in the user is taken to their dashboard where they can view people
+within their network and edit their profile.
+
+![](doc/dashboard.png)
+
+### Edit Profile
+If the user wants to update or change their account, they will be taken to their
+edit profile page.
+![](images/edit-profile-page.png)
+
+### Find Page
+The find page lets users discover and filter musicians based on their preferences.
+
+![](doc/search-page.png)
+
+![](doc/search-page-filter.png)
+
+
+## Developer Guide
+[TODO]
+
+## Development
+To bring our application to life we used issue driven management practices
+through the sessh [github repository](https://github.com/mox-amber/sessh). Within the repository separate projects were created based on milestones we expected to reach. Our milestones were then divided into issues divided amongst each member.
+
+The Mox Amber team signed a contract that outlined the expectations of each member. You can view a copy of our team contract here: [Team Contract](https://docs.google.com/document/d/1PoUwM7omjHm2AsQrFtHgtw8QwC63vHkxEemNF_xnBQQ/edit).
+
+### Milestone 1
+For milestone 1, our goal was to create and deploy a basic working version of our application.
+
+You can view our [project board](https://github.com/mox-amber/sessh/projects/1)
+if you would like to see how we divided our tasks.
+
+### Milestone 2
+[TODO]
+
+## The Team
+* Kaiwi Akioka
+* Edward Birtodaso
+* Josh Constantino
+* Waylon Ho
+* Ian Iwata
+
+For further information about Mox Amber and our projects you can visit our [github](https://github.com/mox-amber).
+
