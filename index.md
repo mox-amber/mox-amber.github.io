@@ -1,3 +1,6 @@
+This page documents Mox Amber's project: Sessh. The site is updated regularly
+as the project is still in development.
+
 ## Table of Contents
 
 * [Overview](https://mox-amber.github.io/sessh/#overview)
@@ -57,7 +60,7 @@ within their network and edit their profile.
 ### Edit Profile
 If the user wants to update or change their account, they will be taken to their
 edit profile page.
-![](images/edit-profile-page.png)
+![](doc/edit-page.png)
 
 ### Find Page
 The find page lets users discover and filter musicians based on their preferences.
@@ -83,7 +86,10 @@ You can view our [project board](https://github.com/mox-amber/sessh/projects/1)
 if you would like to see how we divided our tasks.
 
 ### Milestone 2
-[TODO]
+For milestone 2, our goal now is to add the functionalities that we were unable to add in milestone 1. That, and also to make our application look better in general.
+
+You can view our [project board](https://github.com/mox-amber/sessh/projects/2)
+if you would like to see how we divided our tasks.
 
 ## The Team
 * Kaiwi Akioka
