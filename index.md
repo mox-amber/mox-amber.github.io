@@ -40,38 +40,60 @@ The following is a walkthrough of the application.
 ### Landing Page
 When visiting the site, a user is greeted with our landing page describing the
 purpose of the application.
+![](doc/landing-page.PNG)
 
-![](doc/landing-page.png)
+A user can log in by clicking the link in the upper right corner.
 
-A user can sign in by clicking the link in the upper right corner.
-
-### Sign In
-When signing in the user is taken to the sign in page where they can enter their
+### Log In
+When logging in, the user is taken to the log in page where they can enter their
 information.
+![](doc/login-page.PNG)
 
-![](doc/login-page.png)
+### Sign Up
+If a user does not have an account they can either signup through the link in
+the login dropdown
+![](doc/signup-page.PNG)
+
+or the login page itself.
+![](doc/signup-from-signin.PNG)
 
 ### User Dashboard
 After signing in the user is taken to their dashboard where they can view people
 within their network and edit their profile.
 
-![](doc/dashboard.png)
+![](doc/dashboard.PNG)
 
 ### Edit Profile
 If the user wants to update or change their account, they will be taken to their
 edit profile page.
-![](doc/edit-page.png)
+![](doc/edit-profile-page.PNG)
 
-### Find Page
-The find page lets users discover and filter musicians based on their preferences.
+### Search Page
+The search page lets users discover and filter musicians based on their preferences.
 
-![](doc/search-page.png)
+![](doc/search-page.PNG)
 
-![](doc/search-page-filter.png)
+![](doc/search-page-filter.PNG)
 
+### Signing Out
+A user can sign out from the same dropdown the used to log in and will be taken
+to the sign out page for confirmation that the action was a success.
+![](doc/signout-page.PNG)
+
+### Admin Page
+An admin page is given that shows the list of all musicians and their information.
+![](doc/admin.PNG)
 
 ## Developer Guide
-[TODO]
+### Download to local machine
+Using [github repository](https://github.com/mox-amber/sessh), click on Code to clone the repository into Github Desktop. This will open up Github Desktop and allow you to view the repository in your local machine.
+
+### Editing
+Open your editor (ex. IntelliJ Idea) and create a new web project. Link your project to the file containing your repository and the project files will be displayed into your editor.
+For any modifications, create a new branch (DO NOT make edits in the master branch) and create your changes.
+
+### Deploying in your local machine
+To deploy, run meteor npm install and then meteor npm run start into the command prompt. You will get a link to copy and open into your web browser. This will allow you to view any changes that you have made locally. Once you are satisfied with your changes, push your branch into Github and the changes will be checked before merging into the master branch.
 
 ## Development
 To bring our application to life we used issue driven management practices
@@ -89,6 +111,13 @@ if you would like to see how we divided our tasks.
 For milestone 2, our goal now is to add the functionalities that we were unable to add in milestone 1. That, and also to make our application look better in general.
 
 You can view our [project board](https://github.com/mox-amber/sessh/projects/2)
+if you would like to see how we divided our tasks.
+
+### Milestone 3
+For milestone 3, was to build upon our work in milestone 2 by filling the "odds and ends" by
+improving the overall application look, fix remaining bugs, and finalizing the project.
+
+You can view our [project board](https://github.com/mox-amber/sessh/projects/3)
 if you would like to see how we divided our tasks.
 
 ## The Team
