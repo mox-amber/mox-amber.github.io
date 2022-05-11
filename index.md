@@ -70,10 +70,15 @@ edit profile page.
 
 ### Search Page
 The search page lets users discover and filter musicians based on their preferences.
-
 ![](doc/search-page.PNG)
 
-![](doc/search-page-filter.PNG)
+### Messaging
+The users can message each other through the send messages page
+![](doc/send-message.PNG)
+
+and check the received messages on the messages page.
+![](doc/messages.PNG)
+
 
 ### Signing Out
 A user can sign out from the same dropdown the used to log in and will be taken
