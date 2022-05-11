@@ -1,3 +1,5 @@
+[![ci-meteor-application-template-react](https://github.com/mox-amber/sessh/actions/workflows/ci.yml/badge.svg)](https://github.com/mox-amber/sessh/actions/workflows/ci.yml)
+
 This page documents Mox Amber's project: Sessh. The site is updated regularly
 as the project is still in development.
 
