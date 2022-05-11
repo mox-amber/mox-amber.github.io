@@ -3,11 +3,11 @@ as the project is still in development.
 
 ## Table of Contents
 
-* [Overview](https://mox-amber.github.io/sessh/#overview)
-* [Deployment](https://mox-amber.github.io/sessh/#deployment)
-* [User Guide](https://mox-amber.github.io/sessh/#user-guide)
-* [Developer Guide](https://mox-amber.github.io/sessh/#developer-guide)
-* [Development](https://mox-amber.github.io/sessh/#development)
+* [Overview](https://mox-amber.github.io/#overview)
+* [Deployment](https://mox-amber.github.io/#deployment)
+* [User Guide](https://mox-amber.github.io/#user-guide)
+* [Developer Guide](https://mox-amber.github.io/#developer-guide)
+* [Development](https://mox-amber.github.io/#development)
 
 
 ## Overview
