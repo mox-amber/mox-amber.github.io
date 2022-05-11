@@ -88,6 +88,11 @@ to the sign out page for confirmation that the action was a success.
 An admin page is given that shows the list of all musicians and their information.
 ![](doc/admin.PNG)
 
+## Community Feedback
+The general consensus is that the site had some very unintuitive aspects to it. The singup page was a point of major difficulty for users, they said that the genre field didn't make sense, and that a dropdown menu of choices would have been better. Another thing is that when a user submits their form, while the "your account was created" animation plays, the user is not, then, redirected from the page. This proved to be a cause of some confusion for users. The messaging system was rudimentary to begin with, and users noticed. A suggestion was to make it similar to Twitter, in that it is thread based.
+This was the general feedback of our testers. There is much to improve on. 
+Some additional things we, the team, identified was the landing page being somewhat... underdeveloped. The editi profile page doesn't match the signup page in it's power with relation to accounts and collection writing. When a user doesn't input a url in the image field, it is displayed as a broken link as opposed to a default image. Along with additional functionality that we were not able to implement.
+
 ## Developer Guide
 ### Download to local machine
 Using [github repository](https://github.com/mox-amber/sessh), click on Code to clone the repository into Github Desktop. This will open up Github Desktop and allow you to view the repository in your local machine.
